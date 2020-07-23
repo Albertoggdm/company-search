@@ -1,0 +1,39 @@
+.app {
+  text-align: center;
+  margin: 10px auto;
+  max-width: 1200px;
+  min-width: 600px;
+}
+.app-header {
+  background-color: #f07277;
+  margin: 0 10px;
+  padding: 10px;
+}
+
+.app-header-title {
+  color: white;
+  font-weight: bold;
+}
+
+.app-body {
+  display: flex;
+}
+
+.sidebar {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.main-container {
+  flex: 4;
+  margin: 0 10px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.component-descriptor {
+  background-color: #457b9d;
+  color: white;
+}

@@ -1,0 +1,1004 @@
+{
+  "companies": [
+    {
+      "Abn": "87639995029",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "#A PTY LIMITED",
+      "NameType": "Entity Name",
+      "Postcode": "2127",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "86236073782",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Trading Name",
+      "Postcode": "3507",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "47384497877",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Trading Name",
+      "Postcode": "5062",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "79102534305",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Trading Name",
+      "Postcode": "2113",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "72149535884",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Trading Name",
+      "Postcode": "6169",
+      "Score": 100,
+      "State": "WA"
+    },
+    {
+      "Abn": "62981882039",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Entity Name",
+      "Postcode": "2620",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "79933596217",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Trading Name",
+      "Postcode": "3020",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "16186721993",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Other Name",
+      "Postcode": "4127",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "61106585310",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A",
+      "NameType": "Trading Name",
+      "Postcode": "2145",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "92072997454",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A & & PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2029",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "11162041929",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & CO PTY. LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2016",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "40610881706",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & SONS PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "3186",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "17542807842",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A & TA BELOUSOFF",
+      "NameType": "Entity Name",
+      "Postcode": "4715",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "99957808659",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & TA LUCAS",
+      "NameType": "Entity Name",
+      "Postcode": "6210",
+      "Score": 100,
+      "State": "WA"
+    },
+    {
+      "Abn": "40036578729",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A & TA PETROU",
+      "NameType": "Entity Name",
+      "Postcode": "4152",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "61608547094",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A A & K A VALLELONGA",
+      "NameType": "Entity Name",
+      "Postcode": "5345",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "13374198753",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A A K A & B L ADAIR",
+      "NameType": "Other Name",
+      "Postcode": "4421",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "67123235351",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A A K A AND B L ADAIR",
+      "NameType": "Other Name",
+      "Postcode": "4421",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "79449461361",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A COY",
+      "NameType": "Trading Name",
+      "Postcode": "4078",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "92005624543",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A Company",
+      "NameType": "Trading Name",
+      "Postcode": "2533",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "34730229720",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A D & B A BLACKMORE",
+      "NameType": "Entity Name",
+      "Postcode": "4566",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "99519462919",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A D & B A CHISHOLM",
+      "NameType": "Entity Name",
+      "Postcode": "6623",
+      "Score": 100,
+      "State": "WA"
+    },
+    {
+      "Abn": "83960429030",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A D & B A KERR",
+      "NameType": "Entity Name",
+      "Postcode": "4677",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "89004634137",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A D & B A MCDONALD PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "3660",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "30635244690",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A D & B A TARRANT & G P & H D MOULDEN",
+      "NameType": "Entity Name",
+      "Postcode": "5290",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "16961251381",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A D & B A WARNER",
+      "NameType": "Entity Name",
+      "Postcode": "6159",
+      "Score": 100,
+      "State": "WA"
+    },
+    {
+      "Abn": "45739562389",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A D & B A WHELDON FAMILY TRUST & THE C J & J E MARGETTS FAMILY TRUST",
+      "NameType": "Entity Name",
+      "Postcode": "7468",
+      "Score": 100,
+      "State": "TAS"
+    },
+    {
+      "Abn": "32005677636",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A Pty Ltd",
+      "NameType": "Entity Name",
+      "Postcode": "3004",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "50500347978",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A SEN PTY LIMITED",
+      "NameType": "Trading Name",
+      "Postcode": "2500",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "97617048265",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A SEN PTY LIMITED",
+      "NameType": "Trading Name",
+      "Postcode": "2500",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "87002392485",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A SEN PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2500",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "17357230675",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A SON",
+      "NameType": "Trading Name",
+      "Postcode": "2150",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "17212350414",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A company",
+      "NameType": "Trading Name",
+      "Postcode": "2007",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "89610678227",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A&TA PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "4017",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "61635632878",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A*",
+      "NameType": "Business Name",
+      "Postcode": "4120",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "40069941037",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A.A. & K.A. JONES PTY. LTD.",
+      "NameType": "Entity Name",
+      "Postcode": "3294",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "57160738036",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A.CO",
+      "NameType": "Business Name",
+      "Postcode": "6011",
+      "Score": 100,
+      "State": "WA"
+    },
+    {
+      "Abn": "66596568167",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A.D & B.A SILSON",
+      "NameType": "Entity Name",
+      "Postcode": "6056",
+      "Score": 100,
+      "State": "WA"
+    },
+    {
+      "Abn": "20754678756",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A.D. & B.A. WHELDON FAMILY TRUST",
+      "NameType": "Entity Name",
+      "Postcode": "7468",
+      "Score": 100,
+      "State": "TAS"
+    },
+    {
+      "Abn": "68862900400",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "ACORP",
+      "NameType": "Trading Name",
+      "Postcode": "4871",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "42061598472",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "ACORP PTY. LIMITED",
+      "NameType": "Entity Name",
+      "Postcode": "4068",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "32090058512",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "CORPORATION A PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2028",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "47835287955",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "Co&a.",
+      "NameType": "Business Name",
+      "Postcode": "2785",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "88997973071",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "D & G RINALDI SUPER FUND & The Trustee for A & TA Hartley Superannuation Fund",
+      "NameType": "Entity Name",
+      "Postcode": "5000",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "70966358506",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "D & G RINALDI SUPER FUND & The Trustee for A & TA Hartley Superannuation Fund & The Trustee for The A & V and A & K Rinaldi Superannuation Fund",
+      "NameType": "Entity Name",
+      "Postcode": "5000",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "47115584104",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "MD&A PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "3095",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "54282788650",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "MISS A",
+      "NameType": "Trading Name",
+      "Postcode": "4109",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "30221401763",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "Miss A",
+      "NameType": "Business Name",
+      "Postcode": "4556",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "65110096029",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "PL & A PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2335",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "76118532693",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "Roebers TA&A Pty Limited",
+      "NameType": "Entity Name",
+      "Postcode": "2757",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "26114949423",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "The A Corporation Pty Ltd",
+      "NameType": "Entity Name",
+      "Postcode": "4670",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "71839814392",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "The Trustee for A & TA Hartley Superannuation Fund",
+      "NameType": "Entity Name",
+      "Postcode": "5245",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "94362911972",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "The Trustee for A A & K A JONES PTY LTD STAFF SUPERANNUATION FUND",
+      "NameType": "Entity Name",
+      "Postcode": "3294",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "45109209913",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "The Trustee for THE A D B A TAYLOR FAMILY TRUST",
+      "NameType": "Entity Name",
+      "Postcode": "2061",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "89783915066",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "The Trustee for a",
+      "NameType": "Entity Name",
+      "Postcode": "5355",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "43390351212",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "WONG R & JA & TA & A",
+      "NameType": "Entity Name",
+      "Postcode": "4051",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "83793175477",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Trading Name",
+      "Postcode": "4720",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "29178509181",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Trading Name",
+      "Postcode": "3044",
+      "Score": 100,
+      "State": "VIC"
+    },
+    {
+      "Abn": "70288023892",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Trading Name",
+      "Postcode": "2560",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "16715050806",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Other Name",
+      "Postcode": "4570",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "22983784409",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Trading Name",
+      "Postcode": "4034",
+      "Score": 100,
+      "State": "QLD"
+    },
+    {
+      "Abn": "85143732638",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Trading Name",
+      "Postcode": "2041",
+      "Score": 100,
+      "State": "NSW"
+    },
+    {
+      "Abn": "81970279182",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "a",
+      "NameType": "Trading Name",
+      "Postcode": "5039",
+      "Score": 100,
+      "State": "SA"
+    },
+    {
+      "Abn": "74910596115",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "#SALON A",
+      "NameType": "Business Name",
+      "Postcode": "2429",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "63209860411",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "400 George Street Development Trust and Trinkaus Australien Immobilien-Fonds NR. 1 Treuhand-Gmbh as trustee of a trust",
+      "NameType": "Trading Name",
+      "Postcode": "2000",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "97633735798",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & CO CONSULTING PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "4006",
+      "Score": 97,
+      "State": "QLD"
+    },
+    {
+      "Abn": "84158932748",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & CO NETWORK PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "3087",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "13728981966",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & HOLLAND",
+      "NameType": "Business Name",
+      "Postcode": "3064",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "73157841122",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & MD Investments Pty Ltd",
+      "NameType": "Entity Name",
+      "Postcode": "3188",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "15617748428",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A & NV PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "4551",
+      "Score": 97,
+      "State": "QLD"
+    },
+    {
+      "Abn": "63379063136",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A & SONS KITCHENS",
+      "NameType": "Business Name",
+      "Postcode": "2200",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "27640057405",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A * STAR PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "6147",
+      "Score": 97,
+      "State": "WA"
+    },
+    {
+      "Abn": "62110246681",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A - DEVELOPMENT PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2106",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "78086533226",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A 500 PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2200",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "67742055733",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A AAA",
+      "NameType": "Business Name",
+      "Postcode": "3215",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "40088854111",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A ACCOUNT PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2229",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "97248312133",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A ACCOUNTING",
+      "NameType": "Trading Name",
+      "Postcode": "4066",
+      "Score": 97,
+      "State": "QLD"
+    },
+    {
+      "Abn": "15988224549",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A AND CO CLEANER",
+      "NameType": "Other Name",
+      "Postcode": "2620",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "33082970223",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A AUTOCO",
+      "NameType": "Business Name",
+      "Postcode": "2606",
+      "Score": 97,
+      "State": "ACT"
+    },
+    {
+      "Abn": "76121670752",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A BUILDER",
+      "NameType": "Trading Name",
+      "Postcode": "3056",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "35622802448",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A BUILDING PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2146",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "59137749958",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A Book Pty Ltd",
+      "NameType": "Entity Name",
+      "Postcode": "3128",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "57446953513",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A CLEANER",
+      "NameType": "Trading Name",
+      "Postcode": "6027",
+      "Score": 97,
+      "State": "WA"
+    },
+    {
+      "Abn": "51006616431",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A COMMUNICAT",
+      "NameType": "Business Name",
+      "Postcode": "3055",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "18625629736",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A COMMUNICATIONS PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "3121",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "23152266801",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A CONSULTING PTY LTD",
+      "NameType": "Trading Name",
+      "Postcode": "3186",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "13615113392",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A CORP COMPUTERS PTY LTD",
+      "NameType": "Entity Name",
+      "Postcode": "2333",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "91314154322",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A COURIERS",
+      "NameType": "Trading Name",
+      "Postcode": "2905",
+      "Score": 97,
+      "State": "ACT"
+    },
+    {
+      "Abn": "99837874730",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A COURIERS",
+      "NameType": "Trading Name",
+      "Postcode": "2580",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "96326825720",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A COURT",
+      "NameType": "Trading Name",
+      "Postcode": "4511",
+      "Score": 97,
+      "State": "QLD"
+    },
+    {
+      "Abn": "64840133916",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A Church",
+      "NameType": "Trading Name",
+      "Postcode": "2046",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "96846292382",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A Cleaning",
+      "NameType": "Trading Name",
+      "Postcode": "0822",
+      "Score": 97,
+      "State": "NT"
+    },
+    {
+      "Abn": "22928742986",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A Company of Artists",
+      "NameType": "Business Name",
+      "Postcode": "2228",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "38941862056",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A Corp. Computers",
+      "NameType": "Business Name",
+      "Postcode": "2333",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "40367231438",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A DESIGN",
+      "NameType": "Other Name",
+      "Postcode": "2207",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "17009008980",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A DESIGN",
+      "NameType": "Trading Name",
+      "Postcode": "6023",
+      "Score": 97,
+      "State": "WA"
+    },
+    {
+      "Abn": "73258932211",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A Design",
+      "NameType": "Trading Name",
+      "Postcode": "2257",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "20645519182",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A Design",
+      "NameType": "Trading Name",
+      "Postcode": "3214",
+      "Score": 97,
+      "State": "VIC"
+    },
+    {
+      "Abn": "49821769539",
+      "AbnStatus": "0000000002",
+      "IsCurrent": true,
+      "Name": "A Design",
+      "NameType": "Trading Name",
+      "Postcode": "2155",
+      "Score": 97,
+      "State": "NSW"
+    },
+    {
+      "Abn": "81191844261",
+      "AbnStatus": "0000000001",
+      "IsCurrent": true,
+      "Name": "A Design",
+      "NameType": "Trading Name",
+      "Postcode": "6026",
+      "Score": 97,
+      "State": "WA"
+    }
+  ]
+}
